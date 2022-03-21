@@ -16,16 +16,18 @@ const Menu = () => (
 
                 }}>
                         <li>
-                                <Link to="/"> Home</Link>
-                        </li>
-                        
-                        <li>
-                                <Link to="/about"> About</Link>
+                                <Link to="/">Home</Link>
                         </li>
 
-                         <li>
-                                <Link to="/note"> Notes</Link>
+                        <li>
+                                <Link to="/note">Notes</Link>
                         </li> 
+                        
+                        <li>
+                                <Link to="/about">About</Link>
+                        </li>
+
+                         
                         
 
 
