@@ -23,9 +23,9 @@ const Menu = () => (
                                 <Link to="/about"> About</Link>
                         </li>
 
-                        {/* <li>
+                         <li>
                                 <Link to="/note"> Notes</Link>
-                        </li> */}
+                        </li> 
                         
 
 
